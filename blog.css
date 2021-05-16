@@ -1,0 +1,21 @@
+html{
+	background-image: url("background.png");
+}
+h1{
+	font-family: 'Itim', cursive;
+	text-align: center;
+	font-size: 100px;
+	position: relative;
+	top: -5px;
+}
+audio{
+	background: transparent;
+	position: relative;
+	left: 515px;
+	top: 10px;
+}
+p{
+	text-align: center;
+	font-family: 'Sue Ellen Francisco', cursive;
+	font-size: 30px;
+}s
